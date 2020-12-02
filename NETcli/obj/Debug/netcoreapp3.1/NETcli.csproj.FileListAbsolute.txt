@@ -1,0 +1,11 @@
+/home/robert/NETcli/bin/Debug/netcoreapp3.1/NETcli
+/home/robert/NETcli/bin/Debug/netcoreapp3.1/NETcli.deps.json
+/home/robert/NETcli/bin/Debug/netcoreapp3.1/NETcli.runtimeconfig.json
+/home/robert/NETcli/bin/Debug/netcoreapp3.1/NETcli.runtimeconfig.dev.json
+/home/robert/NETcli/bin/Debug/netcoreapp3.1/NETcli.dll
+/home/robert/NETcli/bin/Debug/netcoreapp3.1/NETcli.pdb
+/home/robert/NETcli/obj/Debug/netcoreapp3.1/NETcli.csprojAssemblyReference.cache
+/home/robert/NETcli/obj/Debug/netcoreapp3.1/NETcli.AssemblyInfoInputs.cache
+/home/robert/NETcli/obj/Debug/netcoreapp3.1/NETcli.AssemblyInfo.cs
+/home/robert/NETcli/obj/Debug/netcoreapp3.1/NETcli.dll
+/home/robert/NETcli/obj/Debug/netcoreapp3.1/NETcli.pdb
